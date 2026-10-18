@@ -18,4 +18,5 @@ pip install -r requirement.txt
 python3 hash.py
 ```
 * Watch the demo
+  
 [![asciicast](https://asciinema.org/a/MaVeO7geUfpjG7nZ0NfN0bS50.svg)](https://asciinema.org/a/MaVeO7geUfpjG7nZ0NfN0bS50)
